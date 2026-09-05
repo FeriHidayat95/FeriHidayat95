@@ -4,6 +4,7 @@
 ### Senior Full Stack Engineer • Distributed Systems & Web Platforms
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ferihidayat)
+[![Email](https://img.shields.io/badge/Email-ferihidayat95%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferihidayat95@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Indonesia_(UTC%2B7)-000000?style=for-the-badge&logo=google-maps&logoColor=white)](#)
 [![Remote Work](https://img.shields.io/badge/Status-Available_for_Global_Remote-success?style=for-the-badge&logo=remotedesktop&logoColor=white)](#)
 
