@@ -1,6 +1,6 @@
-<div align="center">
+﻿<div align="center">
 
-# Hi there, I'm Feri Hidayat 👋
+# Feri Hidayat
 ### Senior Full Stack Engineer • Distributed Systems & Web Platforms
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ferihidayat)
@@ -8,7 +8,7 @@
 [![Remote Work](https://img.shields.io/badge/Status-Available_for_Global_Remote-success?style=for-the-badge&logo=remotedesktop&logoColor=white)](#)
 
 <p align="center">
-  <b>Passionate about building resilient web applications, real-time microservices, and network management systems.</b><br/>
+  <b>Specializing in resilient web applications, real-time microservices, and network management systems.</b><br/>
   Experienced in taking products from architectural design to containerized, high-availability production environments.
 </p>
 
@@ -16,16 +16,16 @@
 
 </div>
 
-## 🌐 About Me
+## About Me
 
-- 💻 **Full-Stack Engineering:** Deep expertise in building modern, responsive web applications (**TypeScript / React / Next.js**) paired with robust backend services (**Node.js / Express / NestJS / Go / Python**).
-- 🔌 **Domain Specialization:** Specialized experience in **network infrastructure, ISP billing engines, RADIUS authentication, and real-time subscriber management systems**.
-- 🌍 **Global Remote Ready:** Async-first communicator with proven capability to collaborate seamlessly across US, European, and APAC time zones.
-- 📐 **Architecture & Quality:** Passionate about Clean Architecture, Domain-Driven Design (DDD), automated CI/CD pipelines, and rigorous testing practices.
+- **Full-Stack Engineering:** Deep expertise in building modern, responsive web applications (**TypeScript / React / Next.js**) paired with robust backend services (**Node.js / Express / NestJS / Go / Python**).
+- **Domain Specialization:** Specialized experience in **network infrastructure, ISP billing engines, RADIUS authentication, and real-time subscriber management systems**.
+- **Global Remote Ready:** Async-first communicator with proven capability to collaborate seamlessly across US, European, and APAC time zones.
+- **Architecture & Quality:** Dedicated to Clean Architecture, Domain-Driven Design (DDD), automated CI/CD pipelines, and rigorous testing practices.
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 ### Languages & Core
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -67,7 +67,7 @@
 
 ---
 
-## 🎯 Engineering Principles & Remote Mindset
+## Engineering Principles
 
 | Principle | How I Apply It |
 | :--- | :--- |
@@ -78,9 +78,9 @@
 
 ---
 
-## 🚀 Featured Flagship Projects
+## Featured Flagship Projects
 
-### 🌐 [FiberPulse — Enterprise FTTH Topology & Field Dispatch Platform](https://github.com/FeriHidayat95/fiberpulse)
+### [FiberPulse — Enterprise FTTH Topology & Field Dispatch Platform](https://github.com/FeriHidayat95/fiberpulse)
 > Production-grade operations platform for Internet Service Providers (ISPs) featuring interactive geospatial GIS mapping, real-time technician dispatching, and QR-based optical terminal provisioning.
 - **Tech Stack:** React 19, Vite, TanStack Query v5, Zustand, Leaflet GIS, Laravel 11/12, Laravel Reverb (WebSockets), PostgreSQL 16, Redis, Docker Compose.
 - **Key Highlights:** Single-command containerized setup, real-time WebSocket telemetry, mobile-first PWA with hardware QR scanner, GIS capacity heatmaps, defensive security architecture.
@@ -88,7 +88,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FeriHidayat95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Feri's GitHub Stats" width="48%" />
