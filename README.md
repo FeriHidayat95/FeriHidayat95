@@ -88,6 +88,14 @@
 - **Key Highlights:** Single-command containerized setup, real-time WebSocket telemetry, mobile-first PWA with hardware QR scanner, GIS capacity heatmaps, defensive security architecture.
 - **Repository:** [github.com/FeriHidayat95/fiberpulse](https://github.com/FeriHidayat95/fiberpulse)
 
+<br/>
+
+### [PulseBill — Autonomous Telecom Billing & RouterOS Automation Engine](https://github.com/FeriHidayat95/pulsebill)
+> Enterprise financial transaction processing, idempotent multi-gateway payment reconciliation (Stripe, Midtrans, Xendit), and automated edge router bandwidth provisioning via Mikrotik RouterOS API and TR-069 CWMP.
+- **Tech Stack:** Node.js 20 LTS, Express.js, MySQL 8.0, Redis 7, RouterOS API, TR-069 GenieACS, Tailwind CSS, Docker Compose.
+- **Key Highlights:** Autonomous cron-driven invoice lifecycles, automated subscriber walled-garden suspension & instant reactivation, multi-gateway webhook idempotency, SNMP network telemetry.
+- **Repository:** [github.com/FeriHidayat95/pulsebill](https://github.com/FeriHidayat95/pulsebill)
+
 ---
 
 ## GitHub Analytics
