@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Hi there, I'm Feri Hidayat 👋
 ### Senior Full Stack Engineer • Distributed Systems & Web Platforms
@@ -80,11 +80,11 @@
 
 ## 🚀 Featured Flagship Projects
 
-```text
-🏗️ Coming up: Production-grade Open-Source Flagship Projects featuring:
-   • Enterprise Network & Subscriber Management Platform (Docker + Microservices)
-   • Cloud Stock & Multi-tenant Inventory Engine
-```
+### 🌐 [FiberPulse — Enterprise FTTH Topology & Field Dispatch Platform](https://github.com/FeriHidayat95/fiberpulse)
+> Production-grade operations platform for Internet Service Providers (ISPs) featuring interactive geospatial GIS mapping, real-time technician dispatching, and QR-based optical terminal provisioning.
+- **Tech Stack:** React 19, Vite, TanStack Query v5, Zustand, Leaflet GIS, Laravel 11/12, Laravel Reverb (WebSockets), PostgreSQL 16, Redis, Docker Compose.
+- **Key Highlights:** Single-command containerized setup, real-time WebSocket telemetry, mobile-first PWA with hardware QR scanner, GIS capacity heatmaps, defensive security architecture.
+- **Repository:** [github.com/FeriHidayat95/fiberpulse](https://github.com/FeriHidayat95/fiberpulse)
 
 ---
 
