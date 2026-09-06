@@ -87,6 +87,7 @@
 > Production-grade operations platform for Internet Service Providers (ISPs) featuring interactive geospatial GIS mapping, real-time technician dispatching, and QR-based optical terminal provisioning.
 - **Tech Stack:** React 19, Vite, TanStack Query v5, Zustand, Leaflet GIS, Laravel 11/12, Laravel Reverb (WebSockets), PostgreSQL 16, Redis, Docker Compose.
 - **Key Highlights:** Single-command containerized setup, real-time WebSocket telemetry, mobile-first PWA with hardware QR scanner, GIS capacity heatmaps, defensive security architecture.
+- **Architectural Showcase:** Complete full-stack codebase with sandboxed hardware telemetry mocks for recruiter evaluation.
 - **Live Interactive Demo:** [ferihidayat95.github.io/fiberpulse](https://ferihidayat95.github.io/fiberpulse/)
 - **Repository:** [github.com/FeriHidayat95/fiberpulse](https://github.com/FeriHidayat95/fiberpulse)
 
@@ -96,6 +97,7 @@
 > Enterprise financial transaction processing, idempotent multi-gateway payment reconciliation (Stripe, Midtrans, Xendit), and automated edge router bandwidth provisioning via Mikrotik RouterOS API and TR-069 CWMP.
 - **Tech Stack:** Node.js 20 LTS, Express.js, MySQL 8.0, Redis 7, RouterOS API, TR-069 GenieACS, Tailwind CSS, Docker Compose.
 - **Key Highlights:** Autonomous cron-driven invoice lifecycles, automated subscriber walled-garden suspension & instant reactivation, multi-gateway webhook idempotency, SNMP network telemetry.
+- **Architectural Showcase:** Double-entry ledger schemas, webhook idempotency state machine, and RouterOS API multiplexer with sandbox mock drivers.
 - **Live Interactive Demo:** [ferihidayat95.github.io/pulsebill](https://ferihidayat95.github.io/pulsebill/)
 - **Repository:** [github.com/FeriHidayat95/pulsebill](https://github.com/FeriHidayat95/pulsebill)
 
