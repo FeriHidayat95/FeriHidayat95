@@ -86,6 +86,7 @@
 ### [FiberPulse — Enterprise FTTH Topology & Field Dispatch Platform](https://github.com/FeriHidayat95/fiberpulse)
 > Production-grade operations platform for Internet Service Providers (ISPs) featuring interactive geospatial GIS mapping, real-time technician dispatching, and QR-based optical terminal provisioning.
 - **Tech Stack:** React 19, Vite, TanStack Query v5, Zustand, Leaflet GIS, Laravel 11/12, Laravel Reverb (WebSockets), PostgreSQL 16, Redis, Docker Compose.
+- **Field Provenance:** Sanitized architectural release extracted from a multi-year commercial deployment actively servicing 1,400+ FTTH subscribers across Indonesia since 2022.
 - **Key Highlights:** Single-command containerized setup, real-time WebSocket telemetry, mobile-first PWA with hardware QR scanner, GIS capacity heatmaps, defensive security architecture.
 - **Architectural Showcase:** Complete full-stack codebase with sandboxed hardware telemetry mocks for recruiter evaluation.
 - **Live Interactive Demo:** [ferihidayat95.github.io/fiberpulse](https://ferihidayat95.github.io/fiberpulse/)
@@ -96,23 +97,11 @@
 ### [PulseBill — Autonomous Telecom Billing & RouterOS Automation Engine](https://github.com/FeriHidayat95/pulsebill)
 > Enterprise financial transaction processing, idempotent multi-gateway payment reconciliation (Stripe, Midtrans, Xendit), and automated edge router bandwidth provisioning via Mikrotik RouterOS API and TR-069 CWMP.
 - **Tech Stack:** Node.js 20 LTS, Express.js, MySQL 8.0, Redis 7, RouterOS API, TR-069 GenieACS, Tailwind CSS, Docker Compose.
+- **Field Provenance:** Sanitized architectural release extracted from a commercial ISP financial engine processing monthly recurring telecom ledgers since 2022.
 - **Key Highlights:** Autonomous cron-driven invoice lifecycles, automated subscriber walled-garden suspension & instant reactivation, multi-gateway webhook idempotency, SNMP network telemetry.
 - **Architectural Showcase:** Double-entry ledger schemas, webhook idempotency state machine, and RouterOS API multiplexer with sandbox mock drivers.
 - **Live Interactive Demo:** [ferihidayat95.github.io/pulsebill](https://ferihidayat95.github.io/pulsebill/)
 - **Repository:** [github.com/FeriHidayat95/pulsebill](https://github.com/FeriHidayat95/pulsebill)
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=FeriHidayat95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Feri's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FeriHidayat95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FeriHidayat95&theme=tokyonight&hide_border=true" alt="Feri's GitHub Streak" width="97%" />
-</div>
 
 ---
 
