@@ -110,6 +110,17 @@
 - **Live Interactive Demo:** [ferihidayat95.github.io/pulsebill](https://ferihidayat95.github.io/pulsebill/)
 - **Repository:** [github.com/FeriHidayat95/pulsebill](https://github.com/FeriHidayat95/pulsebill)
 
+<br/>
+
+### [n8n AI Automation Orchestrator — Multi-Model Agentic Pipelines & Ingestion Engines](https://github.com/FeriHidayat95/n8nautomation)
+> Enterprise multimodal workflow automation orchestrating unstructured receipt OCR, autonomous commercial stock asset generation, and cloud metadata synchronization with intelligent LLM failover.
+- **Tech Stack:** n8n, Google Gemini 1.5 Flash Vision, Groq (Llama-3.3-70B), Hugging Face (FLUX.1 Schnell), Telegram Bot API, Google Sheets API, Docker Compose, Node.js.
+- **Field Provenance:** Sanitized architectural release extracted from active commercial retail order processing and generative marketing pipelines operating since early 2024.
+- **Key Capabilities:** Zero-latency receipt OCR with JSON schema enforcement, multi-tier LLM circuit breaker (Groq failover for Gemini outages), automated tag/keyword generation for stock portfolios, and real-time ledger synchronization.
+- **Architectural Showcase:** Production-ready exported n8n workflow schemas, automated offline pipeline test runner (`node scripts/simulate-pipeline.js`), and interactive simulation sandbox.
+- **Live Interactive Demo:** [ferihidayat95.github.io/n8nautomation](https://ferihidayat95.github.io/n8nautomation/)
+- **Repository:** [github.com/FeriHidayat95/n8nautomation](https://github.com/FeriHidayat95/n8nautomation)
+
 ---
 
 <div align="center">
