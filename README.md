@@ -106,16 +106,16 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FeriHidayat95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Feri's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeriHidayat95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=FeriHidayat95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Feri's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FeriHidayat95&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FeriHidayat95&theme=tokyonight&hide_border=true" alt="Feri's GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=FeriHidayat95&theme=tokyonight&hide_border=true" alt="Feri's GitHub Streak" width="97%" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed with precision • Open for remote full-time / contract opportunities worldwide.</sub>
+  <sub>Designed & Engineered by <b>Feri Hidayat</b> • Available for global remote full-time & contract engineering roles.</sub>
 </div>
